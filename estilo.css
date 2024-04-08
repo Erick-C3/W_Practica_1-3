@@ -4,11 +4,18 @@
 body{
     background-color: black;
     color: white;
+    margin: 0px;
 }
 
 p{
     background-color: red;
-    border: 3px solid violet;
+    border: 3px inset rgb(254, 255, 255);
+    border-radius: 10px;
+    /* margin: 30px; */
+    /* margin: 30px 20px; */
+    /* margin: 30px 20px 50px; */
+    margin: 10px 20px 30px 40px;
+    padding: 2px;
 }
 
 /* selector de id */
